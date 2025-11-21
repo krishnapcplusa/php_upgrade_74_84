@@ -6,3 +6,5 @@ WORKDIR /var/www/html
 
 # Default smoke script
 COPY --chown=www-data:www-data smoke.php /var/www/html/smoke.php
+
+#krsihna
