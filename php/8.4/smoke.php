@@ -1,3 +1,3 @@
 <?php
-// Simple smoke endpoint for PHP 8.4
+echo " Simple smoke endpoint for PHP 8.4";
 phpinfo();
